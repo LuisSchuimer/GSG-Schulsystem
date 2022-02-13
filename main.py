@@ -121,7 +121,7 @@ def login():
         IP_addres = socket.gethostbyname(h_name)
         print(f"Logging in with {os.getlogin()}...")
         sleep(1)
-        client_socket.connect(("192.168.178.31", 10))
+        client_socket.connect(("-----Your IP----", 10))
         client_socket.send(bytes(username, "utf8"))
         sleep(1)
         client_socket.send(bytes(h_name, "utf8"))
