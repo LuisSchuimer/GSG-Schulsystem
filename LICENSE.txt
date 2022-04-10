@@ -4,5 +4,5 @@ You can use the code or parts of it for your own projects. The projects must be 
 GitHub (https://github.com/LuisSchuimer/GSG-Schulsystem/blob/main/main.py). You may publish and sell programs made with
 the code as long as the source of the code (see above) is credited. Extensions to the program may be made and we are
 open to any extensions sent to us. Please stick to the conditions!
-Luis Schuimer C2022 (GSG school system) East Studios Germany
+Luis Schuimer C2022 (Netwolff and East-Studios-Germany)
 All rights reserved
